@@ -1,0 +1,24 @@
+name: jejeohGame
+version: 1.0
+author: jejeoh
+main: fr.jejeoh.azpaz.Base
+commands:
+  spawn:
+    description: commands de spawn
+  feed :
+    description: commands bouffe
+  furnace:
+    description: fait cuire les objets
+  mine:
+    description: fait cuire les objets
+  pre:
+    description: fait cuire les objets
+  start :
+    description: commands pour lancer le jeu
+    permission: azpaz.start.use
+  best :
+    description: commands pour lancer le jeu
+    permission: azpaz.gold.use
+  force :
+    description: commands pour lancer le jeu
+    permission: azpaz.force.use
